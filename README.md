@@ -11,7 +11,7 @@ This repository contains scripts to toggle your hardware keyboard on and off in 
 
 1.  **Clone the repository:**
     ```bash
-    git clone git@github:ifnernalbits/exorcise-keys.git ~/.dots/Development/keyboard_toggle
+    git clone https://github.com/ifnernalbits/exorcise-keys.git
     ```
 
 2.  **Make scripts executable:**
